@@ -19,6 +19,8 @@ This lab practices the following:
 - `len` function
 - `max` function
 - `set` function
+- `request` module
+- `csv` module
 
 ## Instructions
 

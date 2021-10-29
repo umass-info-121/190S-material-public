@@ -4,4 +4,4 @@ The world is rich in data and our ability to process, manipulate, analyze, and v
 
 # Labs
 
-- [Lab 8]({{ site.baseurl }}{% link labs/lab8/lab8.md %})
+- [Lab 8]({{ site.baseurl }}{% link labs/lab8/README.md %})

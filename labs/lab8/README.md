@@ -11,12 +11,12 @@ This lab practices the following:
 - Lambda statement
 - Higher-order functions
 - List data type
-    * `append` method
-    * Indexing
+  * `append` method
+  * Indexing
 - Set data type
-    * `add` method
+  * `add` method
 - Dict data type
-    * Indexing
+  * Indexing
 - For loops
 - If statement
 - `zip` function

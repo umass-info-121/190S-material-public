@@ -21,6 +21,7 @@ This lab practices the following:
 - `set` function
 - `request` module
 - `csv` module
+- `pip` package management tool
 
 ## Instructions
 

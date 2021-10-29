@@ -1,5 +1,5 @@
 ---
-permalink: /lab/8
+permalink: /lab/8/
 ---
 
 # Lab 8 Olympic Medals

@@ -1,6 +1,7 @@
 ---
 permalink: /lab/8
 ---
+
 # Lab 8 Olympic Medals
 
 The goal of this lab is to practice several concepts and programming skill with a particular emphasis on functions. The lab introduces the concept of retrieving data in CSV format from a remote computer over the web and writing several functions that process that data in various ways. It combines our understanding of data types and their use within functions to accomplish a task. This lab also covers how to install a 3rd-party library using the `pip` package management tool.

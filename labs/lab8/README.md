@@ -10,13 +10,9 @@ This lab practices the following:
 - Function calls
 - Lambda statement
 - Higher-order functions
-- List data type
-  * `append` method
-  * Indexing
-- Set data type
-  * `add` method
-- Dict data type
-  * Indexing
+- List data type: `append` method, indexing
+- Set data type: `add` method
+- Dict data type: indexing
 - For loops
 - If statement
 - `zip` function
